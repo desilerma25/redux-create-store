@@ -1,3 +1,4 @@
+//add getState, return dispatch and getState
 function createStore(reducer) {
   let state;
 
